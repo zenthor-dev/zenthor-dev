@@ -6,6 +6,11 @@
 
 💻 Tecnologías: Java, Spigot API, Maven, YAML, Git
 
+---
+## 🚀 Proyectos destacados
+
+- [Draconix HCF Core](https://github.com/zenthor-dev/Draconix) — Plugin HCF open source completo y modular  
+- Próximamente más proyectos y contribuciones open source
 <!--
 **zenthor-dev/zenthor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
