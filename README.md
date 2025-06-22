@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Cesar (me doy a conocer como Zenthor)
 
+💻 Tecnologías: Java, Spigot API, Maven, YAML, Git
+
 <!--
 **zenthor-dev/zenthor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
