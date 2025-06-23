@@ -11,6 +11,18 @@
 
 - [Draconix HCF Core](https://github.com/zenthor-dev/Draconix) — Plugin HCF open source completo y modular  
 - Próximamente más proyectos y contribuciones open source
+
+---
+
+## 📫 Contáctame
+
+- Discord: `zenthor.dev`  
+- Email: zenthordev@gmail.com
+
+---
+
+¡Gracias por visitar mi perfil!  
+Estoy abierto a colaboraciones, ideas y preguntas.
 <!--
 **zenthor-dev/zenthor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
