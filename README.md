@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Cesar (me doy a conocer como Zenthor)
+# ¡Hola! 👋 Soy Cesar Montiel (me doy a conocer como Zenthor)
 
 🎮 Soy una persona tranquila, actualmente viviendo en Nicaragua. Tengo 16 años y me apasiona aprender y jugar Minecraft. Soy desarrollador de plugins de Minecraft, con más de 2 años de experiencia en Java y en constante aprendizaje. Me apasiona el gaming, la programación y contribuir a la comunidad.
 
