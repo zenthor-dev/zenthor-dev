@@ -2,7 +2,7 @@
 
 🎮 Soy una persona tranquila, actualmente viviendo en Nicaragua. Tengo 16 años y me apasiona aprender y jugar Minecraft. Soy desarrollador de plugins de Minecraft, con más de 2 años de experiencia en Java y en constante aprendizaje. Me apasiona el gaming, la programación y contribuir a la comunidad.
 
-🐉 Actualmente trabajando en **Draconix**, un HCF Core open source inspirado en Celestial y Atlantic.
+🐉 Actualmente trabajando en **Draconix**, un HCF Core open source
 
 💻 Tecnologías: Java, Spigot API, Maven, YAML, Git
 
